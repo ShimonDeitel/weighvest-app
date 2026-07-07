@@ -1,0 +1,42 @@
+{
+  "identifier": "weighvest",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Weighvest Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "weighvest_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Load-progression charts and route history",
+              "displayName": "Weighvest Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "weighvest_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Weighvest Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
